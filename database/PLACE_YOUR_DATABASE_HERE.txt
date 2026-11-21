@@ -1,0 +1,1 @@
+Copy your original expenses.db file into this folder. Keep your backup separately.
